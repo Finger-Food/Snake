@@ -1,7 +1,7 @@
 import pygame
 import random
 import threading
-import encrypt
+import highscore.encrypt as encrypt
 
 # Initialisation
 pygame.init()
